@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chasemmod",
+  "name": "Winterland Mod",
+  "description": "A mod that simulates an imaginary world called Winterland",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Chase_M"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

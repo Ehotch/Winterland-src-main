@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "ChasemMod:glowcrystal_torch" },
+        "facing=east": { "model": "ChasemMod:glowcrystal_torch_wall" },
+        "facing=south": { "model": "ChasemMod:glowcrystal_torch_wall", "y": 90 },
+        "facing=west": { "model": "ChasemMod:glowcrystal_torch_wall", "y": 180 },
+        "facing=north": { "model": "ChasemMod:glowcrystal_torch_wall", "y": 270 }
+    }
+}

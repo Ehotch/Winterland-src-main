@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "axis=z": { "model": "ChasemMod:winterland_portal_ew" },
+        "axis=x": { "model": "ChasemMod:winterland_portal_ns" }
+    }
+}
