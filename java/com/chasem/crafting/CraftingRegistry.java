@@ -30,5 +30,12 @@ public class CraftingRegistry
 			" + ",
 			'+', icy_rod_stack, '|', icy_block_stack
 		);
+		GameRegistry.addShapedCraftingRecipe(itemStackOfIcyHoe,
+			“-- ”
+			“ + ”
+			“ + ”
+			‘+’, icy_block_stack, ‘-’, icy_block_stack
+		);
+		}
 	}
 }
